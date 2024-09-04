@@ -1,5 +1,5 @@
-# Lil'Log
+# Jair's Log
 
-Lilian's Blog: [https://lilianweng.github.io/lil-log/](https://lilianweng.github.io/lil-log/)
+Inspired entirely from **Lilian's Blog:** [https://lilianweng.github.io/lil-log/](https://lilianweng.github.io/lil-log/)
 
-Deprecated now.
+A work in progress.
